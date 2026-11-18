@@ -1,0 +1,11 @@
+:root{--red:#C8102E;--paper:#F3F3F0;--ink:#1B1A1C;--soft:#5A5658}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.7 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR",sans-serif}
+header{background:var(--red);color:#fff;padding:28px 20px}
+header h1{margin:0;font-size:28px;font-weight:900}
+header p{margin:4px 0 0;font-size:14px}
+main{max-width:720px;margin:0 auto;padding:24px 20px 48px}
+h2{font-size:19px;margin:32px 0 8px}
+a{color:var(--red)}
+.note{color:var(--soft);font-size:14px}
+ul{padding-left:20px}
